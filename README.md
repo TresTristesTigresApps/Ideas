@@ -14,7 +14,7 @@ Todas las ideas que vayamos teniendo.
 - Lanzar el movil ( locuron, pillamos pesos y tenemos velocidad y tiempo )
 - Quien bebe mas ( contabilizar copas, chupitos etc )
 - tpv desde el movil ( el simbolito en la mesa y pedir desde ahí )
-
+- Espejo de mano para chicas ( con cámara delantera )
 
 
 
